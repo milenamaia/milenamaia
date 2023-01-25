@@ -1,4 +1,4 @@
-Olá, Sou a Milena Maia
+## Olá, Sou a Milena Maia
 
 <div style="display: inline_block">
 <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=milenamaia&count_private=true&show_icons=true&theme=defaut" /> 
@@ -20,3 +20,5 @@ Olá, Sou a Milena Maia
   <a href = "mailto:milenamaiadesouza123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/milena-maia-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/milenamaia/milenamaia/blob/output/github-contribution-grid-snake.svg)
